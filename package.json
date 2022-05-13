@@ -22,10 +22,16 @@
   "dependencies": {
     "@nestjs/common": "^8.1.1",
     "@nestjs/core": "^8.1.1",
+    "@nestjs/mongoose": "^9.0.3",
     "@nestjs/platform-express": "^8.1.1",
+    "@nestjs/swagger": "^5.2.1",
+    "@types/mongoose": "^5.11.97",
+    "class-transformer": "^0.5.1",
+    "mongoose": "^6.3.3",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
-    "rxjs": "^7.4.0"
+    "rxjs": "^7.4.0",
+    "swagger-ui-express": "^4.3.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^8.1.3",
